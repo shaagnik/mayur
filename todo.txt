@@ -1,0 +1,19 @@
+EMAIL
+/transparency on the bar
+colors
+get logo and contact lined up
+images
+^^  logo
+    main
+    odissi
+    academy
+    company
+    reviews
+    events
+    bg tile?
+    footer
+sizes properly
+/menu style
+company-separate pages for each?
+footer
+y ON TOP of pic

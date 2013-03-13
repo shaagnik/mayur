@@ -1,0 +1,129 @@
+body {
+    background-color: #a64d05;
+    font-family: trebuchet, verdana, helvetica, arial, sans-serif;
+    font-size: 2em;
+}
+a:link {
+    color: #333333;
+    text-decoration: none;
+}
+a:visited {
+    color: #222222;
+}
+
+#logo {
+    background-image: url(images/logo.png); 
+    background-color: #003030;
+    margin-left: 50px;
+    width: 400px;
+    height: 165px;
+    margin-top: 50px;
+    border: 1px solid #ffffff;
+    margin-bottom: -35px;
+    level: front;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    box-shadow: 10px 10px 5px;
+}
+
+#contact {
+    text-align: right;
+}
+
+#main {
+    border: #ffffff 1px solid;
+    display: inline-block;
+    position: relative;
+    margin-bottom: 50px;
+    box-shadow: 10px 10px 5px;
+    margin-left: 50px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin-top: -1px;
+    padding: 0px;
+    margin-right: -1px;
+}
+
+#left_menu {
+    position: absolute;
+    background-color: #003030;
+    width: 250px;
+    height: 100%;
+    border-bottom-left-radius: 15px;
+    font-color: #ffffff;
+    border-right: 1px #ffffff solid;
+}
+
+#right {
+    position: relative;
+    width: 970px;
+    margin-left: 250px;
+    border-bottom-right-radius: 15px;
+}
+
+#large_photo {
+    position: relative;
+    width: 970px;
+    height: 422px;
+    padding: 0px;
+    margin: 1px;
+    border-bottom: 1px #ffffff solid;
+}
+
+#content {
+    border: #ffffff 1px solid;
+    padding: 5px;
+    position: relative;
+    background-color: #caae97;
+    margin: 1px;
+}
+
+#overlay_bar {
+    padding: 10px;
+    filter:alpha(opacity=70);
+     -moz-opacity:0.7;
+     -khtml-opacity: 0.7;
+    opacity: 0.7;
+    color: #ffffff;
+    background-color: #AA0000;
+    text-align: right;
+    margin: 1px;
+    margin-top: -136px;
+}
+
+#left_menu li {
+    margin: 0px;
+    padding-left: 5px;
+    list-style: none;
+    color: #ffffff;
+    border-bottom: #fff solid;
+    border-width: 1px;
+    background-color: #555555;
+}
+
+#left-menu ul {
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+ul.nav {
+    background-color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+ul.nav li {
+    border-bottom: 1px #ffffff solid;
+    padding: 0px;
+    margin: 5px;
+}
+
+#left_menu li:hover {
+    cursor: pointer;
+    background-color: #ff0000;
+}
+
+#left_menu a {
+    color: #ffffff;
+    line-height: 70px;
+}
